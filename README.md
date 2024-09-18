@@ -1,6 +1,8 @@
 # Solar Panel Tilt Angle Optimization
 
 This project demonstrates the use of mathematical methods to optimize the tilt angle of solar panels for maximum efficiency. We use a polynomial model to represent the solar panel efficiency as a function of the tilt angle and implement both Lagrange interpolation and the Dichotomy method for root finding.
+![solar](https://github.com/user-attachments/assets/a4d922e9-7e58-41c2-b321-14a12fd1cee5)
+
 
 ## Project Structure
 
